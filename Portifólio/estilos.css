@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.redes-sociais a {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #0077b5; /* Azul LinkedIn */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.redes-sociais a:hover {
+    background-color: #005582;
+}
+
+.projeto {
+    margin-bottom: 2rem;
+}
+
+.projeto img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
